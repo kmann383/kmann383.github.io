@@ -1,5 +1,12 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Kmann383
+description: A pretty cool place
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+    repository_url: https://github.com/kmann383/kmann383.github.io
+    is_project_page: true
+    owner_url: https://github.com/kmann383
+    repository_name: kmann383.github.io
+    owner_name: kmann383
+    zip_url: https://github.com/kmann383/kmann383.github.io/archive/main.zip
